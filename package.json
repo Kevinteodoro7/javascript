@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Tutorial de logica de programação com JavaScript",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevinteodoro7/javascript.git"
+  },
+  "author": "Kevin Teodoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kevinteodoro7/javascript/issues"
+  },
+  "homepage": "https://github.com/Kevinteodoro7/javascript#readme"
+}
