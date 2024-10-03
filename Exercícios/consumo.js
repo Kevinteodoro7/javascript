@@ -13,7 +13,7 @@ console.log("calculo do consumo do combustível")
 
 // entrada
 distancia = Number(input.question("Distancia percorrida: "))
-litros = Number(input.quation("Quantidade de litros de combustivel: "))
+litros = Number(input.question("Quantidade de litros de combustivel: "))
 
 // processamento
 consumo = distancia / litros
