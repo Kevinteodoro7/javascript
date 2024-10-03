@@ -18,7 +18,7 @@ litros = Number(input.quation("Quantidade de litros de combustivel: "))
 // processamento
 consumo = distancia / litros
 
-// sáida
+// saída
 console.log(`consumo do veiculo: ${consumo.toFixed(1)} km/l`)
 
 
