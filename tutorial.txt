@@ -34,6 +34,22 @@ Lógica de programação
 - POO
 - estruturas de dados
 
+_______________________________________________________________
+MANDAMENTOS DA programação
+
+1) ux (User eXperience) - desenvolver sempre pensando na experiência do usuário.
+
+Dica de vídeo: https://youtu.be/Z1GNW_woXI0?si=rt8A-7amLsIxuoKW
+
+2) Usar o mínimo possível de código (variáveis, operadores, comparadores, estruturas de controle etc) para resolver o problema (lembrar do marcapasso)
+
+3) Entender o problema. Não adianta sentar na frente do computador se você não sabe como resolver o problema.
+
+Algoritimo ("receita do bolo")
+Conseito:
+            variáveis 
+entrada - processamento - saída
+
 GIT e GITHUB
 
 Comandos básicos do git:
@@ -72,7 +88,7 @@ Exemplo
 nomecliente -> nomeCliente
 
 
-____________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________
 Comandos básicos do MS-DOS
 cls -> limpar a tela
 dir -> listar arquivos e diretórios
@@ -137,3 +153,23 @@ const -> criar(declarar) uma constante
 let -> criar(declarar) uma variável 
 typeof() -> verificar o tipo de variável
 
+________________________________________________________________________________________________________________________
+Estruturas de controle
+- condicionais
+- laços de repetições
+
+Estruturas de controle condicionais 
+
+if (condição) {
+    //condição verdadeira
+}
+
+if (condição) {
+    //condição verdadeira
+} else {
+    //condição falsa
+}
+
+Observações:
+1) Uma condição nunca pode ser verdadeira e falsa simultaneamente.
+2) No uso do if-else sempre uma das condições será processada.
