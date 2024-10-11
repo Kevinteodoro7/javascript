@@ -24,3 +24,10 @@ console.log(`consumo do veiculo: ${consumo.toFixed(1)} km/l`)
 
 
 
+if (media <5) {
+    console.log("Gasolina".red)
+} else {
+    console.log("Alcool".blue)
+}
+
+
